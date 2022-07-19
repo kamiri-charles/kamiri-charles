@@ -20,5 +20,6 @@ Nairobi, KE.
 [![Linkedin: Charles Kamiri](https://img.shields.io/badge/-CharlesKamiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-kamiri-5012a9209/)](https://www.linkedin.com/in/charles-kamiri-5012a9209/)
 
 [![GitHub Charles Kamiri](https://img.shields.io/github/followers/kamiri-charles?label=follow&style=social)](https://github.com/kamiri-charles)
+
 ![Profile views](https://gpvc.arturio.dev/kamiri-charles)
 
