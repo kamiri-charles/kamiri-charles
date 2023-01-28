@@ -16,6 +16,7 @@ Nairobi, KE.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamiri-charles&count_private=true&show_icons=true)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=kamiri-charles&%22%20alt=%22kamiri-charles)
 
 [![Linkedin: Charles Kamiri](https://img.shields.io/badge/-CharlesKamiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-kamiri-5012a9209/)](https://www.linkedin.com/in/charles-kamiri-5012a9209/)
 
