@@ -19,5 +19,3 @@ Nairobi, KE.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamiri-charles&langs_count=8&layout=compact&hide_border=true" alt="Charles' GitHub stats" />
 
 [![GitHub Charles Kamiri](https://img.shields.io/github/followers/kamiri-charles?label=follow&style=social)](https://github.com/kamiri-charles)
-
-![Profile views](https://gpvc.arturio.dev/kamiri-charles)
